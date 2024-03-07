@@ -1,0 +1,66 @@
+body {
+    margin-left: 40vh;
+    margin-right: 40vh;
+    margin-top: 5vh;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.title {
+    padding: 10px 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(180, 180, 180);
+}
+
+.historia1 {
+    margin: 6vh;
+}
+
+.bg-distribuicao {
+    margin-left: 17vh;
+    margin-right: 17vh;
+    background-color: rgb(216, 216, 216);
+    border: 1px solid rgb(180, 180, 180);
+    padding-top: 3vh;
+    padding-bottom: 2.5vh;
+    align-items: center;
+}
+
+.linha {
+    border-bottom: 2px solid black;
+}
+
+.text-img {
+    display: flex;
+}
+
+figcaption {
+    text-align: center;
+}
+
+.bg-family {
+    margin-left: 5vh;
+    margin-bottom: 15vh;
+    background-color: rgb(216, 216, 216);
+    border: 1px solid rgb(180, 180, 180);
+    padding-top: 3vh;
+    padding-left: 3vh;
+    padding-right: 3vh;
+    padding-bottom: 2.5vh;
+}
+
+.compre {
+    color: blue;
+    background-color: rgb(188, 226, 213);
+    padding: 10px 10px;
+    font-size: 6vh;
+}
+
+.rodape {
+    display: flex;
+}
+
+.copy {
+    color: rgb(73, 73, 73);
+    margin-top: 5vh;
+    margin-left: 5vh;
+}
